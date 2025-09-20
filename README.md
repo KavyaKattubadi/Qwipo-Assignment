@@ -1,4 +1,4 @@
-# Customer Management App - Full Stack Assignment
+# Customer Management App - Full Stack 
 
 ## Project Overview
 This is a full-stack web application for managing customers and their multiple addresses.  
